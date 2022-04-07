@@ -1,1 +1,1 @@
-# mongo
+# This is an example using minikube and kubectl to create a mongo web api to connect to a mongo database.
